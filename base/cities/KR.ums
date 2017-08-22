@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/base.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<country xmlns="http://schemas.olivarim.com/ums/1.0/base">
+	<labelVariants>
+		<labelVariant lang="de">
+			<fullLabel>Republik Korea</fullLabel>
+			<sortLabel>Korea, Republik</sortLabel>
+			<commonLabel>Südkorea</commonLabel>
+		</labelVariant>
+		<labelVariant lang="en" default="true">
+			<fullLabel>Republic of Korea</fullLabel>
+			<sortLabel>Korea, Republic of</sortLabel>
+			<commonLabel>South_Korea</commonLabel>
+			<shortLabel>ROK</shortLabel>
+		</labelVariant>
+		<labelVariant lang="es">
+			<fullLabel>República de Corea</fullLabel>
+			<sortLabel>Corea, República de</sortLabel>
+			<commonLabel>Corea del Sur</commonLabel>
+		</labelVariant>
+		<labelVariant lang="fr">
+			<fullLabel>République de Corée</fullLabel>
+			<sortLabel>Corée, République de</sortLabel>
+			<commonLabel>Corée du Sud</commonLabel>
+		</labelVariant>
+		<labelVariant lang="it">
+			<fullLabel>Repubblica di Corea</fullLabel>
+			<sortLabel>Corea, Repubblica di</sortLabel>
+			<commonLabel>Corea del Sud</commonLabel>
+		</labelVariant>
+		<labelVariant lang="ko" original="true">
+			<fullLabel>大韓民國</fullLabel>
+		</labelVariant>
+		<labelVariant lang="ru">
+			<fullLabel>Республика Корея</fullLabel>
+			<sortLabel>Корея, Республика</sortLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Südkorea"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/South_Korea"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Corea_del_Sur"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Corée_du_Sud"/>
+		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/Corea_del_Sud"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Франция"/>
+	</linkVariants>
+	<standardIds>
+		<standardId>
+			<standard uid="ISO/3166/1"/>
+			<segments>
+				<segment level="1">KR</segment>
+			</segments>
+		</standardId>
+	</standardIds>
+</country>

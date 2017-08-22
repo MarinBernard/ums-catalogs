@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:ensemble
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<labelVariants>
+		<labelVariant lang="de" original="true" default="true">
+			<fullLabel>Akademie für Alte Musik Berlin</fullLabel>
+			<shortLabel>Akamus</shortLabel>
+		</labelVariant>
+		<labelVariant lang="ru">
+			<fullLabel>Берлинская академия старинной музыки</fullLabel>
+			<shortLabel>БАСМ</shortLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="website" lang="de" href="https://akamus.de/de"/>
+		<linkVariant type="website" lang="en" href="https://akamus.de/en"/>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Akademie_für_Alte_Musik_Berlin"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Akademie_für_Alte_Musik_Berlin"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Akademie_für_Alte_Musik_de_Berlín"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Ch%C5%93ur_de_Radio_France"/>
+	</linkVariants>
+	<creation>
+		<year>1982</year>
+		<place>
+			<city uid="DE/BE/Berlin"/>
+		</place>
+	</creation>
+</umsm:ensemble>

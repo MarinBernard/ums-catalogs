@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyricist
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<nameVariants>
+		<nameVariant lang="de" original="true" default="true">
+			<firstName>Nikolaus</firstName>
+			<lastName>Decius</lastName>
+		</nameVariant>
+		<nameVariant lang="ru">
+			<firstName>Николаус</firstName>
+			<lastName>Дециус</lastName>
+		</nameVariant>
+	</nameVariants>
+	<birth>
+		<year>1485</year>
+		<place>
+			<city uid="DE/BY/Hof"/>
+		</place>
+	</birth>
+	<death>
+		<year>1546</year>
+		<place>
+			<city uid="DE/BY/Hof"/>
+		</place>
+	</death>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Nikolaus_Decius"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Nikolaus_Decius"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Дециус,_Николаус"/>
+	</linkVariants>
+</umsm:lyricist>

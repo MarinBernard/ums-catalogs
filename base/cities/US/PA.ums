@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/base.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<countryDivision xmlns="http://schemas.olivarim.com/ums/1.0/base">
+	<labelVariants>
+		<labelVariant lang="de">
+			<fullLabel>Gemeinwesen Pennsylvaniens</fullLabel>
+			<sortLabel>Pennsylvaniens, Gemeinwesen</sortLabel>
+			<commonLabel>Pennsylvania</commonLabel>
+		</labelVariant>
+		<labelVariant lang="en" original="true" default="true">
+			<fullLabel>Commonwealth of Pennsylvania</fullLabel>
+			<sortLabel>Pennsylvania, Commonwealth of</sortLabel>
+			<commonLabel>Pennsylvania</commonLabel>
+		</labelVariant>
+		<labelVariant lang="es">
+			<fullLabel>Mancomunidad de Pensilvania</fullLabel>
+			<sortLabel>Pensilvania, Mancomunidad de</sortLabel>
+			<commonLabel>Pennsylvania</commonLabel>
+		</labelVariant>
+		<labelVariant lang="fr">
+			<fullLabel>Pennsylvanie</fullLabel>
+		</labelVariant>
+		<labelVariant lang="nl">
+			<fullLabel>Commonwealth of Pennsylvania</fullLabel>
+			<sortLabel>Pennsylvania, Commonwealth of</sortLabel>
+			<commonLabel>Pennsylvanië</commonLabel>
+		</labelVariant>
+		<labelVariant lang="ru">
+			<fullLabel>Содружество Пенсильвании</fullLabel>
+			<sortLabel>Пенсильвании, Содружество</sortLabel>
+			<commonLabel>Пенсильвания</commonLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Pennsylvania"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Pennsylvania"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Pensilvania"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Pennsylvanie"/>
+		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/Pennsylvania"/>
+		<linkVariant type="wikipedia" lang="nl" href="https://nl.wikipedia.org/wiki/Pennsylvania"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Пенсильвания"/>
+	</linkVariants>
+	<standardIds>
+		<standardId>
+			<standard uid="ISO/3166/2"/>
+			<segments>
+				<segment level="1">US</segment>
+				<segment level="2">PA</segment>
+			</segments>
+		</standardId>
+	</standardIds>
+	<country uid="US"/>
+</countryDivision>

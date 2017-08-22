@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/audio.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsa:label
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsa="http://schemas.olivarim.com/ums/1.0/audio">
+	<labelVariants>
+		<labelVariant lang="de" original="true" default="true">
+			<fullLabel>Deutsche Harmonia Mundi</fullLabel>
+			<shortLabel>DHM</shortLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Deutsche_Harmonia_Mundi"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Deutsche_Harmonia_Mundi"/>
+	</linkVariants>
+</umsa:label>

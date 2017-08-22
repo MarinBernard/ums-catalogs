@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/base.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<country xmlns="http://schemas.olivarim.com/ums/1.0/base">
+	<labelVariants>
+		<labelVariant lang="de">
+			<fullLabel>Vereinigte Staaten von Amerika</fullLabel>
+			<commonLabel>Vereinigte Staaten</commonLabel>
+			<shortLabel>US</shortLabel>
+		</labelVariant>
+		<labelVariant lang="en" original="true" default="true">
+			<fullLabel>United States of America</fullLabel>
+			<commonLabel>United States</commonLabel>
+			<shortLabel>USA</shortLabel>
+		</labelVariant>
+		<labelVariant lang="es">
+			<fullLabel>Estados Unidos de América</fullLabel>
+			<commonLabel>Estados Unidos</commonLabel>
+			<shortLabel>EE.UU.</shortLabel>
+		</labelVariant>
+		<labelVariant lang="fr">
+			<fullLabel>États-Unis d'Amérique</fullLabel>
+			<commonLabel>États-Unis</commonLabel>
+		</labelVariant>
+		<labelVariant lang="it">
+			<fullLabel>Argentijnse Republiek</fullLabel>
+			<commonLabel>Argentinië</commonLabel>
+		</labelVariant>
+		<labelVariant lang="nl">
+			<fullLabel>Verenigde Staten van Amerika</fullLabel>
+			<commonLabel>Verenigde Staten</commonLabel>
+			<shortLabel>VS</shortLabel>
+		</labelVariant>
+		<labelVariant lang="ru">
+			<fullLabel>Соединённые Штаты Америки</fullLabel>
+			<commonLabel>Соединённые Штаты</commonLabel>
+			<shortLabel>США</shortLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Vereinigte_Staaten"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/United_States"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Estados_Unidos"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/États-Unis"/>
+		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/Stati_Uniti_d'America"/>
+		<linkVariant type="wikipedia" lang="nl" href="https://nl.wikipedia.org/wiki/Verenigde_Staten"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Аргентина"/>
+	</linkVariants>
+	<standardIds>
+		<standardId>
+			<standard uid="ISO/3166/1"/>
+			<segments>
+				<segment level="1">US</segment>
+			</segments>
+		</standardId>
+	</standardIds>
+</country>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:instrumentalist
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<nameVariants>
+		<nameVariant lang="en" original="true" default="true">
+			<firstName>Lawrence</firstName>
+			<lastName>Zazzo</lastName>
+		</nameVariant>
+	</nameVariants>
+	<birth>
+		<date>1970-12-15</date>
+		<place>
+			<city uid="US/PA/Philadelphia"/>
+		</place>
+	</birth>
+	<linkVariants>
+		<linkVariant type="website" lang="en" href="http://www.lawrencezazzo.com"/>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Lawrence_Zazzo"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Lawrence_Zazzo"/>
+	</linkVariants>
+	<umsm:instruments>
+		<umsm:instrument uid="voice/Countertenor"/>
+	</umsm:instruments>
+</umsm:instrumentalist>

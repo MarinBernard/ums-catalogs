@@ -36,4 +36,7 @@
 		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/Johann_Sebastian_Bach"/>
 		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Бах,_Иоганн_Себастьян"/>
 	</linkVariants>
+	<pictureVariants>
+		<pictureVariant type="portrait" lang="de" default="true" original="true" src="Bach, Johann Sebastian/portrait.jpg"/>
+	</pictureVariants>
 </umsm:composer>

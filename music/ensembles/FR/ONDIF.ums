@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:ensemble
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<labelVariants>
+		<labelVariant lang="fr" original="true" default="true">
+			<fullLabel>Orchestre national d'Île-de-France</fullLabel>
+			<sortLabel>Île-de-France, Orchestre national d'</sortLabel>
+			<shortLabel>ONDIF</shortLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="website" lang="fr" href="http://www.orchestre-ile.com/"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Orchestre_national_d'Île-de-France"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Orchestre_national_d'Île-de-France"/>
+	</linkVariants>
+	<pictureVariants>
+		<pictureVariant type="group-photo" lang="fr" default="true" original="true" src="ONDIF/group-photo.jpg"/>
+	</pictureVariants>	
+	<creation>
+		<year>1974</year>
+		<place>
+			<city uid="FR/IDF/94/Alfortville"/>
+		</place>
+	</creation>
+</umsm:ensemble>

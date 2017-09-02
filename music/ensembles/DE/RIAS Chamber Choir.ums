@@ -31,6 +31,9 @@
 		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Coro_de_cámara_de_la_RIAS"/>
 		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/RIAS_Kammerchor"/>
 	</linkVariants>
+	<pictureVariants>
+		<pictureVariant type="group-photo" lang="fr" default="true" original="true" src="RIAS Chamber Choir/group-photo.jpg"/>
+	</pictureVariants>
 	<creation>
 		<year>1948</year>
 		<place>

@@ -25,6 +25,9 @@
 		<linkVariant type="website" href="http://www.sunhaeim.com/en" lang="en"/>
 		<linkVariant type="website" href="http://www.sunhaeim.com/de" lang="de"/>
 	</linkVariants>
+	<pictureVariants>
+		<pictureVariant type="portrait" lang="ko" default="true" original="true" src="Im, Sun-hae/portrait.jpg"/>
+	</pictureVariants>		
 	<umsm:instruments>
 		<umsm:instrument uid="voice/Soprano"/>
 	</umsm:instruments>

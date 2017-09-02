@@ -21,6 +21,9 @@
 		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/James_Gilchrist"/>
 		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/James_Gilchrist_(tenor)"/>
 	</linkVariants>
+	<pictureVariants>
+		<pictureVariant type="portrait" lang="en" default="true" original="true" src="Gilchrist, James/portrait.jpg"/>
+	</pictureVariants>	
 	<umsm:instruments>
 		<umsm:instrument uid="voice/Tenor"/>
 	</umsm:instruments>

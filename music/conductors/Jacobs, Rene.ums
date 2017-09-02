@@ -28,4 +28,7 @@
 		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/René_Jacobs"/>
 		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Якобс,_Рене"/>
 	</linkVariants>
+	<pictureVariants>
+		<pictureVariant type="portrait" lang="fr" default="true" original="true" src="Jacobs, Rene/portrait.jpg"/>
+	</pictureVariants>
 </umsm:conductor>

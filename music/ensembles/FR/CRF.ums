@@ -19,6 +19,9 @@
 	<linkVariants>
 		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Chœur_de_Radio_France"/>
 	</linkVariants>
+	<pictureVariants>
+		<pictureVariant type="group-photo" lang="fr" default="true" original="true" src="CRF/group-photo.jpg"/>
+	</pictureVariants>
 	<creation>
 		<year>1947</year>
 		<place>

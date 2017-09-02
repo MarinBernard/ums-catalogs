@@ -36,4 +36,7 @@
 		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/Ludwig_van_Beethoven"/>
 		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Бетховен,_Людвиг_ван"/>
 	</linkVariants>
+	<pictureVariants>
+		<pictureVariant type="portrait" lang="de" default="true" original="true" src="Beethoven, Ludwig van/portrait.jpg"/>
+	</pictureVariants>
 </umsm:composer>

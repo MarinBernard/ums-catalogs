@@ -10,6 +10,9 @@
 			<lastName>Pfeiffer</lastName>
 		</nameVariant>
 	</nameVariants>
+	<pictureVariants>
+		<pictureVariant type="portrait" lang="de" default="true" original="true" src="Pfeiffer, Julius/portrait.jpg"/>
+	</pictureVariants>	
 	<umsm:instruments>
 		<umsm:instrument uid="voice/Tenor"/>
 	</umsm:instruments>

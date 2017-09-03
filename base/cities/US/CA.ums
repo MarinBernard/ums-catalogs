@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/base.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<countryDivision xmlns="http://schemas.olivarim.com/ums/1.0/base">
+	<labelVariants>
+		<labelVariant lang="de">
+			<fullLabel>Bundesstaat Kalifornien</fullLabel>
+			<sortLabel>Kalifornien, Bundesstaat</sortLabel>
+			<commonLabel>Kalifornien</commonLabel>
+		</labelVariant>
+		<labelVariant lang="en" original="true" default="true">
+			<fullLabel>State of California</fullLabel>
+			<sortLabel>California, State of</sortLabel>
+			<commonLabel>California</commonLabel>
+		</labelVariant>
+		<labelVariant lang="es">
+			<fullLabel>Estado de California</fullLabel>
+			<sortLabel>California, Estado de</sortLabel>
+			<commonLabel>California</commonLabel>
+		</labelVariant>
+		<labelVariant lang="fr">
+			<fullLabel>État de Californie</fullLabel>
+			<sortLabel>Californie, État de</sortLabel>
+			<commonLabel>Californie</commonLabel>
+		</labelVariant>
+		<labelVariant lang="it">
+			<fullLabel>Stato della California</fullLabel>
+			<sortLabel>California, Stato della</sortLabel>
+			<commonLabel>California</commonLabel>
+		</labelVariant>
+		<labelVariant lang="nl">
+			<fullLabel>Staat Californië</fullLabel>
+			<sortLabel>Californië, Staat</sortLabel>
+			<commonLabel>Californië</commonLabel>
+		</labelVariant>
+		<labelVariant lang="ru">
+			<fullLabel>Штат Калифорния</fullLabel>
+			<sortLabel>Калифорния, Штат</sortLabel>
+			<commonLabel>Калифорния</commonLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Kalifornien"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/California"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/California"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Californie"/>
+		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/California"/>
+		<linkVariant type="wikipedia" lang="nl" href="https://nl.wikipedia.org/wiki/Californië"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Калифорния"/>
+	</linkVariants>
+	<standardIds>
+		<standardId>
+			<standard uid="ISO/3166/2"/>
+			<segments>
+				<segment level="1">US</segment>
+				<segment level="2">CA</segment>
+			</segments>
+		</standardId>
+	</standardIds>
+	<country uid="US"/>
+</countryDivision>

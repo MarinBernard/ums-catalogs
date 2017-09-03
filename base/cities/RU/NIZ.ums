@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/base.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<countryDivision xmlns="http://schemas.olivarim.com/ums/1.0/base">
+	<labelVariants>
+		<labelVariant lang="de">
+			<fullLabel>Oblast Nischni Nowgorod</fullLabel>
+			<sortLabel>Nischni Nowgorod, Oblast</sortLabel>
+			<commonLabel>Nischni Nowgorod</commonLabel>
+		</labelVariant>
+		<labelVariant lang="en" default="true">
+			<fullLabel>Nizhny Novgorod Oblast</fullLabel>
+			<sortLabel>Nizhny Novgorod, Oblast</sortLabel>
+			<commonLabel>Nizhny Novgorod</commonLabel>
+		</labelVariant>
+		<labelVariant lang="es">
+			<fullLabel>Óblast de Nizhni Nóvgorod</fullLabel>
+			<sortLabel>Nizhni Nóvgorod, Óblast de</sortLabel>
+			<commonLabel>Nizhni Nóvgorod</commonLabel>
+		</labelVariant>
+		<labelVariant lang="fr">
+			<fullLabel>Oblast de Nijni Novgorod</fullLabel>
+			<sortLabel>Nijni Novgorod, Oblast de</sortLabel>
+			<commonLabel>Nijni Novgorod</commonLabel>
+		</labelVariant>
+		<labelVariant lang="it">
+			<fullLabel>Oblast' di Nižnij Novgorod</fullLabel>
+			<sortLabel>Nižnij Novgorod, Oblast' di</sortLabel>
+			<commonLabel>Nižnij Novgorod</commonLabel>
+		</labelVariant>
+		<labelVariant lang="nl">
+			<fullLabel>Oblast Nizjni Novgorod</fullLabel>
+			<sortLabel>Nizjni Novgorod, Oblast</sortLabel>
+			<commonLabel>Nizjni Novgorod</commonLabel>
+		</labelVariant>
+		<labelVariant lang="ru" original="true">
+			<fullLabel>Нижегородская область</fullLabel>
+			<sortLabel>Нижегородская, область</sortLabel>
+			<commonLabel>Нижегородская</commonLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Oblast_Nischni_Nowgorod"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Nizhny_Novgorod_Oblast"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Óblast_de_Nizhni_Nóvgorod"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Oblast_de_Nijni_Novgorod"/>
+		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/Oblast'_di_Nižnij_Novgorod"/>
+		<linkVariant type="wikipedia" lang="nl" href="https://nl.wikipedia.org/wiki/Oblast_Nizjni_Novgorod"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Нижегородская область"/>
+	</linkVariants>
+	<standardIds>
+		<standardId>
+			<standard uid="ISO/3166/2"/>
+			<segments>
+				<segment level="1">RU</segment>
+				<segment level="2">NIZ</segment>
+			</segments>
+		</standardId>
+	</standardIds>
+	<country uid="RU"/>
+</countryDivision>

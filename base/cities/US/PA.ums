@@ -18,7 +18,9 @@
 			<commonLabel>Pennsylvania</commonLabel>
 		</labelVariant>
 		<labelVariant lang="fr">
-			<fullLabel>Pennsylvanie</fullLabel>
+			<fullLabel>État de Pennsylvanie</fullLabel>
+			<sortLabel>Pennsylvanie, État de</sortLabel>
+			<commonLabel>Pennsylvanie</commonLabel>
 		</labelVariant>
 		<labelVariant lang="nl">
 			<fullLabel>Commonwealth of Pennsylvania</fullLabel>

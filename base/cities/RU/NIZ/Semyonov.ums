@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/base.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<city xmlns="http://schemas.olivarim.com/ums/1.0/base">
+	<labelVariants>
+		<labelVariant lang="de">
+			<fullLabel>Semjonow</fullLabel>
+		</labelVariant>
+		<labelVariant lang="en" default="true">
+			<fullLabel>Semyonov</fullLabel>
+		</labelVariant>
+		<labelVariant lang="es">
+			<fullLabel>Semiónov</fullLabel>
+		</labelVariant>
+		<labelVariant lang="fr">
+			<fullLabel>Semionov</fullLabel>
+		</labelVariant>		
+		<labelVariant lang="it">
+			<fullLabel>Semënov</fullLabel>
+		</labelVariant>		
+		<labelVariant lang="ru" original="true">
+			<fullLabel>Семёнов</fullLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="website" lang="ru" href="http://www.semenov.nnov.ru"/>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Semjonow_(Stadt)"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Semyonov,_Nizhny_Novgorod_Oblast"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Semiónov_(Nizhni_Nóvgorod)"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Semionov_(ville)"/>
+		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/Semënov_(Oblast'_di_Nižnij_Novgorod)"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Семёнов_(город)"/>
+	</linkVariants>
+	<countryDivision uid="RU/NIZ"/>
+</city>

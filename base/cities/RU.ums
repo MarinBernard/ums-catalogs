@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/base.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<country xmlns="http://schemas.olivarim.com/ums/1.0/base">
+	<labelVariants>
+		<labelVariant lang="de">
+			<fullLabel>Russische Föderation</fullLabel>
+			<sortLabel>Russische, Föderation</sortLabel>
+			<commonLabel>Russland</commonLabel>
+		</labelVariant>
+		<labelVariant lang="en" default="true">
+			<fullLabel>Russian Federation</fullLabel>
+			<sortLabel>Russian, Federation</sortLabel>
+			<commonLabel>Russia</commonLabel>
+		</labelVariant>
+		<labelVariant lang="es">
+			<fullLabel>Federación Rusa</fullLabel>
+			<sortLabel>Rusa, Federación</sortLabel>
+			<commonLabel>Rusia</commonLabel>
+		</labelVariant>
+		<labelVariant lang="fr">
+			<fullLabel>Fédération de Russie</fullLabel>
+			<sortLabel>Russie, Fédération de</sortLabel>
+			<commonLabel>Russie</commonLabel>
+		</labelVariant>
+		<labelVariant lang="it">
+			<fullLabel>Federazione Russa</fullLabel>
+			<sortLabel>Russa, Federazione</sortLabel>
+			<commonLabel>Russia</commonLabel>
+		</labelVariant>
+		<labelVariant lang="nl">
+			<fullLabel>Russische Federatie</fullLabel>
+			<sortLabel>Russische, Federatie</sortLabel>
+			<commonLabel>Rusland</commonLabel>
+		</labelVariant>
+		<labelVariant lang="ru" original="true">
+			<fullLabel>Российская Федерация</fullLabel>
+			<sortLabel>Российская, Федерация</sortLabel>
+			<commonLabel>Россия</commonLabel>
+			<shortLabel>РФ</shortLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Russland"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Russia"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Rusia"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Russie"/>
+		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/Russia"/>
+		<linkVariant type="wikipedia" lang="nl" href="https://nl.wikipedia.org/wiki/Rusland"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Россия"/>
+	</linkVariants>
+	<standardIds>
+		<standardId>
+			<standard uid="ISO/3166/1"/>
+			<segments>
+				<segment level="1">RU</segment>
+			</segments>
+		</standardId>
+	</standardIds>
+</country>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:composer
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<nameVariants>
+		<nameVariant lang="de">
+			<firstName>Sergei</firstName>
+			<patronym>Wassiljewitsch</patronym>
+			<lastName>Rachmaninow</lastName>
+		</nameVariant>
+		<nameVariant lang="en" default="true">
+			<firstName>Sergei</firstName>
+			<patronym>Vasilievich</patronym>
+			<lastName>Rachmaninoff</lastName>
+		</nameVariant>
+		<nameVariant lang="es">
+			<firstName>Serguéi</firstName>
+			<patronym>Vasílievich</patronym>
+			<lastName>Rajmáninov</lastName>
+		</nameVariant>
+		<nameVariant lang="fr">
+			<firstName>Sergueï</firstName>
+			<patronym>Vassilievitch</patronym>
+			<lastName>Rachmaninov</lastName>
+		</nameVariant>
+		<nameVariant lang="it">
+			<firstName>Sergej</firstName>
+			<patronym>Vasilevic</patronym>
+			<lastName>Rachmaninov</lastName>
+		</nameVariant>
+		<nameVariant lang="nl">
+			<firstName>Sergej</firstName>
+			<patronym>Vasiljevitsj</patronym>
+			<lastName>Rachmaninov</lastName>
+		</nameVariant>
+		<nameVariant lang="ru" original="true">
+			<firstName>Сергей</firstName>
+			<patronym>Васильевич</patronym>
+			<lastName>Рахманинов</lastName>
+		</nameVariant>
+	</nameVariants>
+	<birth>
+		<date>1873-04-01</date>
+		<place>
+			<city uid="RU/NIZ/Semyonov"/>
+		</place>
+	</birth>
+	<death>
+		<date>1943-03-28</date>
+		<place>
+			<city uid="US/CA/Beverly Hills"/>
+		</place>
+	</death>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Sergei_Wassiljewitsch_Rachmaninow"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Sergei_Rachmaninoff"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Serguéi_Rajmáninov"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Sergueï_Rachmaninov"/>
+		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/Sergej_Vasil'evič_Rachmaninov"/>
+		<linkVariant type="wikipedia" lang="nl" href="https://nl.wikipedia.org/wiki/Sergej_Rachmaninov"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Рахманинов,_Сергей_Васильевич"/>
+	</linkVariants>
+	<pictureVariants>
+		<pictureVariant type="portrait" lang="de" default="true" original="true" src="Rachmaninoff, Sergei/portrait.jpg"/>
+	</pictureVariants>
+</umsm:composer>

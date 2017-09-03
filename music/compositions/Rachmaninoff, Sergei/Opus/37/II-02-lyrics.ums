@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Хвалите имя Господне. Аллилуиа.</umsm:verse>
+			<umsm:verse>Хвалите, раби, Господа. Аллилуиа.</umsm:verse>
+			<umsm:verse>Благословен Господь от Сиона, живый во Иерусалиме.</umsm:verse>
+			<umsm:verse>Аллилуиа.</umsm:verse>
+			<umsm:verse>Исповедайтеся Господеви, яко Благ.</umsm:verse>
+			<umsm:verse>Аллилуиа.</umsm:verse>
+			<umsm:verse>Яко в век милость Его.</umsm:verse>
+			<umsm:verse>Аллилуиа.</umsm:verse>
+			<umsm:verse>Исповедайтеся Богу Небесному.</umsm:verse>
+			<umsm:verse>Аллилуиа. Яко в век милость Его.</umsm:verse>
+			<umsm:verse>Аллилуиа.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

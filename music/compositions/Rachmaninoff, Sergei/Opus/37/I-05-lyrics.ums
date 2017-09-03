@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Ныне отпущаеши раба Твоего,</umsm:verse>
+			<umsm:verse>Владыко, по глаголу Твоему, с миром;</umsm:verse>
+			<umsm:verse>Яко видеста очи мои спасение Твое,</umsm:verse>
+			<umsm:verse>...еже еси уготовал, пред лицем всех людей,</umsm:verse>
+			<umsm:verse>Свет во откровение языков</umsm:verse>
+			<umsm:verse>И славу людей Твоих Израиля.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

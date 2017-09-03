@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Богородице дѣво, радѹйсѧ,</umsm:verse>
+			<umsm:verse>Благодатнаѧ Марїе,</umsm:verse>
+			<umsm:verse>Господь съ тобою:</umsm:verse>
+			<umsm:verse>благословена Ты въ женахъ,</umsm:verse>
+			<umsm:verse>и благословенъ плодъ чрева Твоегѡ;</umsm:verse>
+			<umsm:verse>якѡ Спаса родила еси дѹшъ нашихъ.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:style
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<labelVariants>
+		<labelVariant lang="en" default="true">
+			<fullLabel>Byzantine Music</fullLabel>
+		</labelVariant>
+		<labelVariant lang="es">
+			<fullLabel>Música bizantina</fullLabel>
+			<sortLabel>Bizantina, Música</sortLabel>
+		</labelVariant>
+		<labelVariant lang="fr">
+			<fullLabel>Musique byzantine</fullLabel>
+			<sortLabel>Byzantine, Musique</sortLabel>
+		</labelVariant>
+		<labelVariant lang="nl">
+			<fullLabel>Byzantijnse Muziek</fullLabel>
+		</labelVariant>
+		<labelVariant lang="ru">
+			<fullLabel>Византийская музыка</fullLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Byzantine_music"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Música_bizantina"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Musique_byzantine"/>
+		<linkVariant type="wikipedia" lang="nl" href="https://nl.wikipedia.org/wiki/Byzantijnse_muziek"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Византийская_музыка"/>
+	</linkVariants>
+</umsm:style>

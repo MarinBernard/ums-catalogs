@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Аминь.</umsm:verse>
+			<umsm:verse>Благослови, душе моя, Господа.</umsm:verse>
+			<umsm:verse>Благословен еси, Господи.</umsm:verse>
+			<umsm:verse>Господи Боже мой, возвеличился еси зело.</umsm:verse>
+			<umsm:verse>Благословен еси, Господи.</umsm:verse>
+			<umsm:verse>Во исповедание и в велелепоту облеклся еси.</umsm:verse>
+			<umsm:verse>Благословен еси, Господи.</umsm:verse>
+			<umsm:verse>На горах станут воды.</umsm:verse>
+			<umsm:verse>Дивна дела Твоя, Господи.</umsm:verse>
+			<umsm:verse>Посреде гор пройдут воды.</umsm:verse>
+			<umsm:verse>Дивна дела Твоя, Господи.</umsm:verse>
+			<umsm:verse>Вся премудростию сотворил еси, сотворил еси.</umsm:verse>
+			<umsm:verse>Слава Ти, Господи, сотворившему, сотворившему вся.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

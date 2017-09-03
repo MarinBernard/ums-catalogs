@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Блажен муж, иже не иде на совет нечестивых.</umsm:verse>
+			<umsm:verse>Аллилуиа, аллилуиа, аллилуиа.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Яко весть Господь путь праведных, и путь нечестивых погибнет.</umsm:verse>
+			<umsm:verse>Аллилуиа, аллилуиа, аллилуиа.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Работайте Господеви со страхом и радуйтеся Ему с трепетом.</umsm:verse>
+			<umsm:verse>Аллилуиа, аллилуиа, аллилуиа.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Блажени вси надеющиися Нань.</umsm:verse>
+			<umsm:verse>Аллилуиа, аллилуиа, аллилуиа.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Воскресни, Господи, спаси мя, Боже мой.</umsm:verse>
+			<umsm:verse>Аллилуиа, аллилуиа, аллилуиа.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Господне есть спасение и на людех Твоих благословение Твое.</umsm:verse>
+			<umsm:verse>Аллилуиа, аллилуиа, аллилуиа.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Слава Отцу и Сыну и Святому Духу, и ныне и присно и во веки веков.</umsm:verse>
+			<umsm:verse>Аминь.</umsm:verse>
+			<umsm:verse>Аллилуиа, аллилуиа, аллилуиа. Слава Тебе, Боже.</umsm:verse>
+			<umsm:verse>Аллилуиа, аллилуиа, аллилуиа. Слава Тебе, Боже.</umsm:verse>
+			<umsm:verse>Аллилуиа, аллилуиа, аллилуиа. Слава Тебе, Боже.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

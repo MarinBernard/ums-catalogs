@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:movement
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<titleVariants>
+		<titleVariant lang="cu" original="true">
+			<fullTitle>Свѣте тихій</fullTitle>
+			<subtitle>Кiевскаго роспѣва</subtitle>
+		</titleVariant>
+		<titleVariant lang="en" default="true">
+			<fullTitle>O gladsome Light</fullTitle>
+			<subtitle>Kievian Chant</subtitle>
+		</titleVariant>
+		<titleVariant lang="fr">
+			<fullTitle>Lumière joyeuse</fullTitle>
+			<subtitle>Chant kiévien</subtitle>
+		</titleVariant>
+	</titleVariants>
+	<umsm:forms>
+		<umsm:form uid="Lithurgical/Chant/Kievian"/>
+	</umsm:forms>
+	<umsm:instruments>
+		<umsm:instrument uid="voice/Choir"/>
+	</umsm:instruments>
+	<umsm:key uid="major/E-flat"/>
+	<umsm:incipit>Свѣте тихій</umsm:incipit>
+	<umsm:lyrics uid="I-04-lyrics"/>
+</umsm:movement>

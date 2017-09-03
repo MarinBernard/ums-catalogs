@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:movement
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<titleVariants>
+		<titleVariant lang="cu" original="true">
+			<fullTitle>Величитъ душа моя Господа</fullTitle>
+		</titleVariant>
+		<titleVariant lang="en" default="true">
+			<fullTitle>My Soul doth magnify the Lord</fullTitle>
+		</titleVariant>
+		<titleVariant lang="fr">
+			<fullTitle>Mon Âme magnifie le Seigneur</fullTitle>
+		</titleVariant>
+	</titleVariants>
+	<umsm:forms>
+		<umsm:form uid="Movement"/>
+	</umsm:forms>
+	<umsm:instruments>
+		<umsm:instrument uid="voice/Choir"/>
+	</umsm:instruments>
+	<umsm:key uid="major/B-flat"/>
+	<umsm:incipit>Величитъ душа моя Господа</umsm:incipit>
+	<umsm:lyrics uid="II-05-lyrics"/>
+</umsm:movement>

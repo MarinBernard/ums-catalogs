@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:movement
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<titleVariants>
+		<titleVariant lang="cu" original="true">
+			<fullTitle>Воскресеніе Христово видѣвше</fullTitle>
+		</titleVariant>
+		<titleVariant lang="en" default="true">
+			<fullTitle>Having beheld the Resurrection</fullTitle>
+		</titleVariant>
+		<titleVariant lang="fr">
+			<fullTitle>Ayant contemplé la Résurrection du Christ</fullTitle>
+		</titleVariant>
+	</titleVariants>
+	<umsm:forms>
+		<umsm:form uid="Movement"/>
+	</umsm:forms>
+	<umsm:instruments>
+		<umsm:instrument uid="voice/Choir"/>
+	</umsm:instruments>
+	<umsm:key uid="major/F"/>
+	<umsm:incipit>Воскресеніе Христово видѣвше</umsm:incipit>
+	<umsm:lyrics uid="II-04-lyrics"/>
+</umsm:movement>

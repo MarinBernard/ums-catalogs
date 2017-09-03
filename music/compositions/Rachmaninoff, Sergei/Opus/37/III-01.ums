@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:movement
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<titleVariants>
+		<titleVariant lang="cu" original="true">
+			<fullTitle>Взбранной воеводѣ</fullTitle>
+			<subtitle>Греческаго роспѣва</subtitle>
+		</titleVariant>
+		<titleVariant lang="en" default="true">
+			<fullTitle>To Thee, victorious Leader</fullTitle>
+			<subtitle>Greek Chant</subtitle>
+		</titleVariant>
+		<titleVariant lang="fr">
+			<fullTitle>Ô Reine victorieuse</fullTitle>
+			<subtitle>Chant grec</subtitle>
+		</titleVariant>
+	</titleVariants>
+	<umsm:forms>
+		<umsm:form uid="Lithurgical/Chant/Greek"/>
+	</umsm:forms>
+	<umsm:instruments>
+		<umsm:instrument uid="voice/Choir"/>
+	</umsm:instruments>
+	<umsm:key uid="major/C"/>
+	<umsm:timeSignature>4/4</umsm:timeSignature>
+	<umsm:incipit>Взбранной воеводѣ</umsm:incipit>
+	<umsm:lyrics uid="III-01-lyrics"/>
+</umsm:movement>

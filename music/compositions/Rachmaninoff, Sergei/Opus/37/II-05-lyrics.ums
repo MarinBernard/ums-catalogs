@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Величит душа Моя Господа,</umsm:verse>
+			<umsm:verse>и возрадовася дух Мой о Бозе Спасе моeм.</umsm:verse>
+			<umsm:verse>Честнейшую Херувим и славнейшую</umsm:verse>
+			<umsm:verse>без сравнения Серафим, без истления</umsm:verse>
+			<umsm:verse>Бога Слова рождшую, сущую Богородицу, Тя величаем.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Яко призре на смирение рабы Своея,</umsm:verse>
+			<umsm:verse>се бо от ныне ублажат Мя вси роди.</umsm:verse>
+			<umsm:verse>Честнейшую Херувим и славнейшую</umsm:verse>
+			<umsm:verse>без сравнения Серафим, без истления</umsm:verse>
+			<umsm:verse>Бога Слова рождшую, сущую Богородицу, Тя величаем.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Яко сотвори Мне величие Сильный,</umsm:verse>
+			<umsm:verse>и свято имя Его, и милость Его</umsm:verse>
+			<umsm:verse>в роды родов боящимся Его.</umsm:verse>
+			<umsm:verse>Честнейшую Херувим и славнейшую</umsm:verse>
+			<umsm:verse>без сравнения Серафим, без истления</umsm:verse>
+			<umsm:verse>Бога Слова рождшую, сущую Богородицу, Тя величаем.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Сотвори державу мышцею Своею:</umsm:verse>
+			<umsm:verse>Расточи гордыя мыслию сердца их</umsm:verse>
+			<umsm:verse>Честнейшую Херувим и славнейшую</umsm:verse>
+			<umsm:verse>без сравнения Серафим, без истления</umsm:verse>
+			<umsm:verse>Бога Слова рождшую, сущую Богородицу, Тя величаем.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Низложи сильныя со престол</umsm:verse>
+			<umsm:verse>и вознесе смиренныя; алчущия исполни благ</umsm:verse>
+			<umsm:verse>и богатящияся отпусти тщи.</umsm:verse>
+			<umsm:verse>Честнейшую Херувим и славнейшую</umsm:verse>
+			<umsm:verse>без сравнения Серафим, без истления</umsm:verse>
+			<umsm:verse>Бога Слова рождшую, сущую Богородицу, Тя величаем.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Восприят Израиля отрока Своего,</umsm:verse>
+			<umsm:verse>помянути милости, якоже глагола ко отцем нашим,</umsm:verse>
+			<umsm:verse>Аврааму и семени его, даже до века.</umsm:verse>
+			<umsm:verse>Честнейшую Херувим и славнейшую</umsm:verse>
+			<umsm:verse>без сравнения Серафим, без истления</umsm:verse>
+			<umsm:verse>Бога Слова рождшую, сущую Богородицу, Тя величаем.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

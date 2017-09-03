@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:work
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<titleVariants>
+		<titleVariant lang="en" original="false" default="true">
+			<fullTitle>All-Night Vigil</fullTitle>
+			<sortTitle>Vigil, All-Night</sortTitle>
+		</titleVariant>
+		<titleVariant lang="es">
+			<fullTitle>La Vigilia de toda la Noche</fullTitle>
+			<sortTitle>Vigilia de toda la Noche, La</sortTitle>
+		</titleVariant>
+		<titleVariant lang="fr">
+			<fullTitle>Vigiles nocturnes</fullTitle>
+		</titleVariant>
+		<titleVariant lang="ru">
+			<fullTitle>Всенощное бдение</fullTitle>
+			<sortTitle>Бдение, Всенощное</sortTitle>
+		</titleVariant>
+	</titleVariants>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/All-Night_Vigil_(Rachmaninoff)"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Las_vísperas_(Rajmáninov)"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Les_Vêpres"/>
+	</linkVariants>
+	<umsm:catalogIds>
+		<umsm:catalogId>
+			<umsm:catalog uid="Opus"/>
+			<segments>
+				<segment level="1">37</segment>
+			</segments>
+		</umsm:catalogId>
+	</umsm:catalogIds>
+	<umsm:composers>
+		<umsm:composer uid="Rachmaninoff, Sergei"/>
+	</umsm:composers>
+	<umsm:form uid="Lithurgical/All-Night Vigil"/>
+	<umsm:style uid="Polyphony/Russian"/>
+	<umsm:instruments>
+		<umsm:instrument uid="voice/Choir"/>
+	</umsm:instruments>
+	<umsm:key uid="major/C"/>
+	<inception>
+		<year>1915</year>
+		<month>--01</month>
+	</inception>
+	<completion>
+		<year>1915</year>
+		<month>--02</month>
+	</completion>
+	<umsm:premiere>
+		<year>1915</year>
+		<month>--03</month>
+		<umsm:place>
+			<city uid="RU/MOS/Moscow"/>
+		</umsm:place>
+	</umsm:premiere>
+	<umsm:sections>
+		<umsm:section id="I" numbering="I">
+			<titleVariants>
+				<titleVariant lang="en" default="true">
+					<fullTitle>Vespers</fullTitle>
+				</titleVariant>
+				<titleVariant lang="fr">
+					<fullTitle>Vêpres</fullTitle>
+				</titleVariant>
+				<titleVariant lang="ru" original="true">
+					<fullTitle>Вечерня</fullTitle>
+				</titleVariant>
+			</titleVariants>
+			<umsm:sections>
+				<umsm:section id="1" numbering="1">
+					<umsm:movements>
+						<umsm:movement uid="37/I-01"/>
+					</umsm:movements>
+				</umsm:section>
+				<umsm:section id="2" numbering="2">
+					<umsm:movements>
+						<umsm:movement uid="37/I-02"/>
+					</umsm:movements>
+				</umsm:section>
+				<umsm:section id="3" numbering="3">
+					<umsm:movements>
+						<umsm:movement uid="37/I-03"/>
+					</umsm:movements>
+				</umsm:section>
+				<umsm:section id="4" numbering="4">
+					<umsm:movements>
+						<umsm:movement uid="37/I-04"/>
+					</umsm:movements>
+				</umsm:section>
+				<umsm:section id="5" numbering="5">
+					<umsm:movements>
+						<umsm:movement uid="37/I-05"/>
+					</umsm:movements>
+				</umsm:section>
+				<umsm:section id="6" numbering="6">
+					<umsm:movements>
+						<umsm:movement uid="37/I-06"/>
+					</umsm:movements>
+				</umsm:section>
+			</umsm:sections>
+		</umsm:section>
+		<umsm:section id="II" numbering="II">
+			<titleVariants>
+				<titleVariant lang="en" default="true">
+					<fullTitle>Matins</fullTitle>
+				</titleVariant>
+				<titleVariant lang="fr">
+					<fullTitle>Matines</fullTitle>
+				</titleVariant>
+				<titleVariant lang="ru" original="true">
+					<fullTitle>Утреня</fullTitle>
+				</titleVariant>
+			</titleVariants>
+			<umsm:sections>
+				<umsm:section id="1" numbering="1">
+					<umsm:movements>
+						<umsm:movement uid="37/II-01"/>
+					</umsm:movements>
+				</umsm:section>
+				<umsm:section id="2" numbering="2">
+					<umsm:movements>
+						<umsm:movement uid="37/II-02"/>
+					</umsm:movements>
+				</umsm:section>
+				<umsm:section id="3" numbering="3">
+					<umsm:movements>
+						<umsm:movement uid="37/II-03"/>
+					</umsm:movements>
+				</umsm:section>
+				<umsm:section id="4" numbering="4">
+					<umsm:movements>
+						<umsm:movement uid="37/II-04"/>
+					</umsm:movements>
+				</umsm:section>
+				<umsm:section id="5" numbering="5">
+					<umsm:movements>
+						<umsm:movement uid="37/II-05"/>
+					</umsm:movements>
+				</umsm:section>
+				<umsm:section id="6" numbering="6">
+					<umsm:movements>
+						<umsm:movement uid="37/II-06"/>
+					</umsm:movements>
+				</umsm:section>
+				<umsm:section id="7" numbering="7">
+					<umsm:movements>
+						<umsm:movement uid="37/II-07"/>
+					</umsm:movements>
+				</umsm:section>
+				<umsm:section id="8" numbering="8">
+					<umsm:movements>
+						<umsm:movement uid="37/II-08"/>
+					</umsm:movements>
+				</umsm:section>
+			</umsm:sections>
+		</umsm:section>
+		<umsm:section id="III" numbering="III">
+			<titleVariants>
+				<titleVariant lang="en" default="true">
+					<fullTitle>Prime</fullTitle>
+				</titleVariant>
+				<titleVariant lang="fr">
+					<fullTitle>Prime</fullTitle>
+				</titleVariant>
+				<titleVariant lang="ru" original="true">
+					<fullTitle>Первый час</fullTitle>
+				</titleVariant>
+			</titleVariants>
+			<umsm:sections>
+				<umsm:section id="1" numbering="1">
+					<umsm:movements>
+						<umsm:movement uid="37/III-01"/>
+					</umsm:movements>
+				</umsm:section>
+			</umsm:sections>
+		</umsm:section>
+	</umsm:sections>
+</umsm:work>

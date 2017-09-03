@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/base.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<countryDivision xmlns="http://schemas.olivarim.com/ums/1.0/base">
+	<labelVariants>
+		<labelVariant lang="de">
+			<fullLabel>Oblast Moskau</fullLabel>
+			<sortLabel>Moskau, Oblast</sortLabel>
+			<commonLabel>Moskau</commonLabel>
+		</labelVariant>
+		<labelVariant lang="en" default="true">
+			<fullLabel>Moscow Oblast</fullLabel>
+			<sortLabel>Moscow, Oblast</sortLabel>
+			<commonLabel>Moscow</commonLabel>
+		</labelVariant>
+		<labelVariant lang="es">
+			<fullLabel>Óblast de Moscú</fullLabel>
+			<sortLabel>Moscú, Óblast de</sortLabel>
+			<commonLabel>Moscú</commonLabel>
+		</labelVariant>
+		<labelVariant lang="fr">
+			<fullLabel>Oblast de Moscou</fullLabel>
+			<sortLabel>Moscou, Oblast de</sortLabel>
+			<commonLabel>Moscou</commonLabel>
+		</labelVariant>
+		<labelVariant lang="it">
+			<fullLabel>Oblast' di Mosca</fullLabel>
+			<sortLabel>Mosca, Oblast' di</sortLabel>
+			<commonLabel>Mosca</commonLabel>
+		</labelVariant>
+		<labelVariant lang="nl">
+			<fullLabel>Oblast Moskou</fullLabel>
+			<sortLabel>Moskou, Oblast</sortLabel>
+			<commonLabel>Moskou</commonLabel>
+		</labelVariant>
+		<labelVariant lang="ru" original="true">
+			<fullLabel>Московская область</fullLabel>
+			<sortLabel>Московская, область</sortLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="de" href="https://de.wikipedia.org/wiki/Oblast_Moskau"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Moscow_Oblast"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Óblast_de_Moscú"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Oblast_de_Moscou"/>
+		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/Oblast'_di_Mosca"/>
+		<linkVariant type="wikipedia" lang="nl" href="https://nl.wikipedia.org/wiki/Oblast_Moskou"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Московская_область"/>
+	</linkVariants>
+	<standardIds>
+		<standardId>
+			<standard uid="ISO/3166/2"/>
+			<segments>
+				<segment level="1">RU</segment>
+				<segment level="2">MOS</segment>
+			</segments>
+		</standardId>
+	</standardIds>
+	<country uid="RU"/>
+</countryDivision>

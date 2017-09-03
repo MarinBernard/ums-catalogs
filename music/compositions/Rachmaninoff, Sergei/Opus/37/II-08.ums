@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:movement
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<titleVariants>
+		<titleVariant lang="cu" original="true">
+			<fullTitle>Тропарь: Воскресъ изъ гроба</fullTitle>
+			<subtitle>Греческаго роспѣва</subtitle>
+		</titleVariant>
+		<titleVariant lang="en" default="true">
+			<fullTitle>Troparion: Thou didst rise from the Tomb</fullTitle>
+			<subtitle>Znamenny Chant</subtitle>
+		</titleVariant>
+		<titleVariant lang="fr">
+			<fullTitle>Troparion: Tu T'es relevé du Tombeau</fullTitle>
+			<subtitle>Chant Znamenny</subtitle>
+		</titleVariant>
+	</titleVariants>
+	<umsm:forms>
+		<umsm:form uid="Lithurgical/Chant/Znamenny"/>
+	</umsm:forms>
+	<umsm:instruments>
+		<umsm:instrument uid="voice/Choir"/>
+	</umsm:instruments>
+	<umsm:key uid="major/C"/>
+	<umsm:timeSignature>4/4</umsm:timeSignature>
+	<umsm:incipit>Воскресъ изъ гроба</umsm:incipit>
+	<umsm:lyrics uid="II-08-lyrics"/>
+</umsm:movement>

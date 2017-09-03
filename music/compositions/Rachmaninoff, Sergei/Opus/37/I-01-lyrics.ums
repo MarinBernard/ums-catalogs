@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Аминь.</umsm:verse>
+			<umsm:verse>Приидите, поклонимся Цареви нашему Богу.</umsm:verse>
+			<umsm:verse>Приидите, поклонимся и припадем Христу Цареви нашему Богу.</umsm:verse>
+			<umsm:verse>Приидите, поклонимся и припадем самому Христу Цареви и Богу нашему.</umsm:verse>
+			<umsm:verse>Приидите, поклонимся и припадем Ему.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

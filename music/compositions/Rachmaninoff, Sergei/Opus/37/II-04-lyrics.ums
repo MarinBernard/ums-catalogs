@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Воскресение Христово видевше,</umsm:verse>
+			<umsm:verse>поклонимся Святому Господу Иисусу,</umsm:verse>
+			<umsm:verse>единому безгрешному.</umsm:verse>
+			<umsm:verse>Кресту Твоему покланяемся, Христе,</umsm:verse>
+			<umsm:verse>и святое Воскресение Твое поем и славим.</umsm:verse>
+			<umsm:verse>Ты бо еси Бог наш, разве Тебе иного не знаем,</umsm:verse>
+			<umsm:verse>Имя Твое именуем.</umsm:verse>
+			<umsm:verse>Приидите, вси вернии,</umsm:verse>
+			<umsm:verse>поклонимся святому Христову Воскресению;</umsm:verse>
+			<umsm:verse>се бо прииде Крестом радость всему миру;</umsm:verse>
+			<umsm:verse>всегда благословяще Господа,</umsm:verse>
+			<umsm:verse>поем Воскресение Его,</umsm:verse>
+			<umsm:verse>распятие бо претерпев,</umsm:verse>
+			<umsm:verse>смертию смерть разруши.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

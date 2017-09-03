@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Свете тихий святыя славы</umsm:verse>
+			<umsm:verse>Безсмертнаго Отца Небеснаго, Святаго,</umsm:verse>
+			<umsm:verse>Блаженнаго, Иисусе Христе!</umsm:verse>
+			<umsm:verse>Пришедше на запад солнца, видевше свет вечерний...</umsm:verse>
+			<umsm:verse>поём Отца, Сына и Святаго Духа, Бога.</umsm:verse>
+			<umsm:verse>Достоин еси во вся времена пет быти гласы преподобными,</umsm:verse>
+			<umsm:verse>Сыне Божий, живот даяй; темже мир Тя славит.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

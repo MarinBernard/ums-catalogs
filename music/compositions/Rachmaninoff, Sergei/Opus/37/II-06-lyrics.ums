@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Сщ҃е́нникъ: Сла́ва тебѣ̀ показа́вшемꙋ на́мъ свѣ́тъ.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Ли́къ: Сла́ва въ вы́шнихъ бг҃ꙋ, и҆ на землѝ ми́ръ,</umsm:verse>
+			<umsm:verse>въ человѣ́цѣхъ бл҃говоле́нїе.</umsm:verse>
+			<umsm:verse>хва́лимъ тѧ̀, бл҃гослови́мъ тѧ̀,</umsm:verse>
+			<umsm:verse>кла́нѧемъ ти сѧ, славосло́вимъ тѧ̀,</umsm:verse>
+			<umsm:verse>бл҃годари́мъ тѧ̀ вели́кїѧ ра́ди сла́вы твоеѧ̀.</umsm:verse>
+			<umsm:verse>гдⷭ҇и цр҃ю̀ нбⷭ҇ный,</umsm:verse>
+			<umsm:verse>бж҃е ѻ҆́ч҃е вседержи́телю,</umsm:verse>
+			<umsm:verse>гдⷭ҇и сн҃е є҆диноро́дный</umsm:verse>
+			<umsm:verse>і҆и҃се хрⷭ҇тѐ, и҆ ст҃ы́й дш҃е.</umsm:verse>
+			<umsm:verse>гдⷭ҇и бж҃е, а҆́гнче бж҃їй, сн҃е ѻ҆ч҃ь,</umsm:verse>
+			<umsm:verse>взе́млѧй грѣ́хъ мі́ра, поми́лꙋй на́съ:</umsm:verse>
+			<umsm:verse>взе́млѧй грѣхѝ мі́ра, прїимѝ мл҃твꙋ на́шꙋ:</umsm:verse>
+			<umsm:verse>сѣдѧ́й ѡ҃деснꙋ́ю ѻ҆ц҃а̀, поми́лꙋй на́съ.</umsm:verse>
+			<umsm:verse>ꙗ҆́кѡ ты̀ є҆сѝ є҆ди́нъ свѧ́тъ,</umsm:verse>
+			<umsm:verse>ты̀ є҆сѝ є҆ди́нъ гдⷭ҇ь, і҆и҃съ хрⷭ҇то́съ,</umsm:verse>
+			<umsm:verse>въ сла́вꙋ бг҃а ѻ҆ц҃а̀, а҆ми́нь.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>На всѧ́къ де́нь бл҃гословлю́ тѧ, и҆ восхвалю̀ и҆́мѧ твоѐ</umsm:verse>
+			<umsm:verse>во вѣ́ки, и҆ въ вѣ́къ вѣ́ка.</umsm:verse>
+			<umsm:verse>Сподо́би гдⷭ҇и въ де́нь се́й</umsm:verse>
+			<umsm:verse>без̾ грѣха̀ сохрани́тисѧ на́мъ.</umsm:verse>
+			<umsm:verse>бл҃гослове́нъ є҆сѝ гдⷭ҇и, бж҃е ѻ҆тє́цъ на́шихъ,</umsm:verse>
+			<umsm:verse>и҆ хва́льно и҆ просла́влено и҆́мѧ твоѐ во вѣ́ки, а҆ми́нь.</umsm:verse>
+			<umsm:verse>Бꙋ́ди гдⷭ҇и, млⷭ҇ть твоѧ̀ на на́съ,</umsm:verse>
+			<umsm:verse>ꙗ҆́коже ᲂу҆пова́хомъ на тѧ̀.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Бл҃гослове́нъ є҆сѝ гдⷭ҇и, наꙋчи́ мѧ ѡ҃правда́нїємъ твои̑мъ. Три́жды.</umsm:verse>
+			<umsm:verse>Гдⷭ҇и, прибѣ́жище бы́лъ є҆сѝ на́мъ въ ро́дъ и҆ ро́дъ.</umsm:verse>
+			<umsm:verse>а҆́зъ рѣ́хъ: гдⷭ҇и, поми́лꙋй мѧ̀,</umsm:verse>
+			<umsm:verse>и҆сцѣлѝ дꙋ́шꙋ мою̀, ꙗ҆́кѡ согрѣши́хъ тебѣ̀.</umsm:verse>
+			<umsm:verse>Гдⷭ҇и, къ тебѣ̀ прибѣго́хъ,</umsm:verse>
+			<umsm:verse>наꙋчи́ мѧ твори́ти во́лю твою̀, ꙗ҆́кѡ ты̀ є҆сѝ бг҃ъ мо́й:</umsm:verse>
+			<umsm:verse>ꙗ҆́кѡ ᲂу҆ тебѐ и҆сто́чникъ живота̀,</umsm:verse>
+			<umsm:verse>во свѣ́тѣ твое́мъ ᲂу҆́зримъ свѣ́тъ.</umsm:verse>
+			<umsm:verse>проба́ви млⷭ҇ть твою̀ вѣ́дꙋщымъ тѧ̀.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Ст҃ы́й бж҃е, ст҃ы́й крѣ́пкїй, ст҃ы́й безсме́ртный, поми́лꙋй на́съ. Три́жды.</umsm:verse>
+			<umsm:verse>Сла́ва ѻ҆ц҃ꙋ̀ и҆ сн҃ꙋ и҆ ст҃о́мꙋ дх҃ꙋ,</umsm:verse>
+			<umsm:verse>и҆ ны́нѣ и҆ при́снѡ и҆ во вѣ́ки вѣкѡ́въ, а҆ми́нь.</umsm:verse>
+			<umsm:verse>Ст҃ы́й безсме́ртный, поми́лꙋй на́съ.</umsm:verse>
+			<umsm:verse>Та́же высоча́йшимъ гла́сомъ:</umsm:verse>
+			<umsm:verse>Ст҃ы́й бж҃е, ст҃ы́й крѣ́пкїй, ст҃ы́й безсме́ртный, поми́лꙋй на́съ.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

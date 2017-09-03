@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Благословен еси, Господи, научи мя оправданием Твоим.</umsm:verse>
+			<umsm:verse>Ангельский собор удивися,</umsm:verse>
+			<umsm:verse>зря Тебе в мертвых вменившася,</umsm:verse>
+			<umsm:verse>смертную же, Спасе,</umsm:verse>
+			<umsm:verse>крепость разоривша,</umsm:verse>
+			<umsm:verse>и с собою Адама воздвигша,</umsm:verse>
+			<umsm:verse>и от ада вся свобождша.</umsm:verse>
+			<umsm:verse>Благословен еси, Господи, научи мя оправданием Твоим.</umsm:verse>
+			<umsm:verse>„Почто мира с милостивными слезами, о ученицы, растворяете?“</umsm:verse>
+			<umsm:verse>Блистаяйся во гробе Ангел мироносицам вещаше:</umsm:verse>
+			<umsm:verse>„Видите вы гроб и уразумейте: Спас бо воскресе от гроба.“</umsm:verse>
+			<umsm:verse>Благословен еси, Господи, научи мя оправданием Твоим.</umsm:verse>
+			<umsm:verse>Зело рано мироносицы течаху ко гробу Твоему рыдающия,</umsm:verse>
+			<umsm:verse>Но предста к ним Ангел и рече:</umsm:verse>
+			<umsm:verse>„Рыдания время преста, не плачите,</umsm:verse>
+			<umsm:verse>воскресение же апостолом рцыте.“</umsm:verse>
+			<umsm:verse>Благословен еси, Господи, научи мя оправданием Твоим.</umsm:verse>
+			<umsm:verse>Мироносицы жены, с миры пришедшия ко гробу Твоему,</umsm:verse>
+			<umsm:verse>Спасе, рыдаху.</umsm:verse>
+			<umsm:verse>Ангел же к ним рече, глаголя:</umsm:verse>
+			<umsm:verse>„...Что с мертвыми живаго помышляете?</umsm:verse>
+			<umsm:verse>Яко Бог бо вокресе от гроба.“</umsm:verse>
+			<umsm:verse>Слава Отцу и Сыну и святому Духу.</umsm:verse>
+			<umsm:verse>Поклонимся Отцу и Его Сынови, и Святому Духу,</umsm:verse>
+			<umsm:verse>Святей Троице во едином существе,</umsm:verse>
+			<umsm:verse>со серафимы зовуще:</umsm:verse>
+			<umsm:verse>свят, свят, свят еси, Господи.</umsm:verse>
+			<umsm:verse>И ныне и присно и во веки веков, аминь.</umsm:verse>
+			<umsm:verse>Жизнодавца рождши, греха, Дево, Адама избавила еси.</umsm:verse>
+			<umsm:verse>Радость же Еве в печали место подала еси;</umsm:verse>
+			<umsm:verse>падшия же от жизни к сей направи,</umsm:verse>
+			<umsm:verse>из Тебе воплотивыйся Бог и человек.</umsm:verse>
+			<umsm:verse>Аллилуиа, аллилуиа, аллилуиа, слава Тебе, Боже.</umsm:verse>
+			<umsm:verse>Аллилуиа, аллилуиа, аллилуиа, слава Тебе, Боже.</umsm:verse>
+			<umsm:verse>Аллилуиа, аллилуиа, аллилуиа, слава Тебе, Боже.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:form
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<labelVariants>
+		<labelVariant lang="de">
+			<fullLabel>Snamennyj Gesang</fullLabel>
+		</labelVariant>
+		<labelVariant lang="en" default="true">
+			<fullLabel>Znamenny Chant</fullLabel>
+		</labelVariant>
+		<labelVariant lang="fr">
+			<fullLabel>Chant Znamenny</fullLabel>
+			<sortLabel>Znamenny, Chant</sortLabel>
+		</labelVariant>
+		<labelVariant lang="nl">
+			<fullLabel>Znamennyj-zang</fullLabel>
+		</labelVariant>
+		<labelVariant lang="ru" original="true">
+			<fullLabel>Знаменное пение</fullLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="de" href="https://en.wikipedia.org/wiki/Krjuki"/>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/Znamenny_chant"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Chant_Znamenny"/>
+		<linkVariant type="wikipedia" lang="nl" href="https://nl.wikipedia.org/wiki/Znamennyj-zang"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://ru.wikipedia.org/wiki/Знаменное_пение"/>
+	</linkVariants>
+</umsm:form>

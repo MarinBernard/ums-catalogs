@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Днесь спасение миру бысть,</umsm:verse>
+			<umsm:verse>поем Воскресшему из гроба</umsm:verse>
+			<umsm:verse>и Начальнику жизни нашея:</umsm:verse>
+			<umsm:verse>разрушив бо смертию смерть,</umsm:verse>
+			<umsm:verse>победу даде нам и велию милость.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

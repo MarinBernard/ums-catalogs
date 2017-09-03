@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:movement
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<titleVariants>
+		<titleVariant lang="cu" original="true">
+			<fullTitle>Благословенъ еси, Господи</fullTitle>
+			<subtitle>Греческаго роспѣва</subtitle>
+		</titleVariant>
+		<titleVariant lang="en" default="true">
+			<fullTitle>Blessed art Thou, O Lord</fullTitle>
+			<subtitle>Znamenny Chant</subtitle>
+		</titleVariant>
+		<titleVariant lang="fr">
+			<fullTitle>Béni es-Tu, Seigneur</fullTitle>
+			<subtitle>Chant Znamenny</subtitle>
+		</titleVariant>
+	</titleVariants>
+	<umsm:forms>
+		<umsm:form uid="Lithurgical/Chant/Znamenny"/>
+	</umsm:forms>
+	<umsm:instruments>
+		<umsm:instrument uid="voice/Choir"/>
+	</umsm:instruments>
+	<umsm:key uid="major/F"/>
+	<umsm:incipit>Благословенъ еси, Господи</umsm:incipit>
+	<umsm:lyrics uid="II-03-lyrics"/>
+</umsm:movement>

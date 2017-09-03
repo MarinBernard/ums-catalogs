@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:form
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<labelVariants>
+		<labelVariant lang="en" default="true">
+			<fullLabel>All-Night Vigil</fullLabel>
+		</labelVariant>
+		<labelVariant lang="es">
+			<fullLabel>Vigilia de toda la Noche</fullLabel>
+		</labelVariant>		
+		<labelVariant lang="fr">
+			<fullLabel>Vigiles nocturnes</fullLabel>
+		</labelVariant>
+		<labelVariant lang="it">
+			<fullLabel>Veglia notturna</fullLabel>
+		</labelVariant>
+		<labelVariant lang="ru">
+			<fullLabel>Всенощное бдение</fullLabel>
+		</labelVariant>
+	</labelVariants>
+	<linkVariants>
+		<linkVariant type="wikipedia" lang="en" href="https://en.wikipedia.org/wiki/All-night_vigil"/>
+		<linkVariant type="wikipedia" lang="es" href="https://es.wikipedia.org/wiki/Vigilia_de_toda_la_noche"/>
+		<linkVariant type="wikipedia" lang="fr" href="https://fr.wikipedia.org/wiki/Vigiles_nocturnes"/>
+		<linkVariant type="wikipedia" lang="it" href="https://it.wikipedia.org/wiki/Veglia_notturna"/>
+		<linkVariant type="wikipedia" lang="ru" href="https://it.wikipedia.org/wiki/Всенощное_бдение"/>
+	</linkVariants>
+</umsm:form>

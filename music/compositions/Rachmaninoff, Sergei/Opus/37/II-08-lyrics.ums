@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Воскрес из гроба и узы растерзал еси ада,</umsm:verse>
+			<umsm:verse>разрушил еси осуждение смерти, Господи,</umsm:verse>
+			<umsm:verse>вся от сетей врага избавивый;</umsm:verse>
+			<umsm:verse>явивый же Себе апостолом Твоим,</umsm:verse>
+			<umsm:verse>послал еси я на проповедь,</umsm:verse>
+			<umsm:verse>и теми мир Твой подал еси, едине Многомилостиве.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>

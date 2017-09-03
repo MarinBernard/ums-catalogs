@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://schemas.olivarim.com/ums/1.0/music.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<umsm:lyrics
+	xmlns="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsb="http://schemas.olivarim.com/ums/1.0/base"
+	xmlns:umsm="http://schemas.olivarim.com/ums/1.0/music">
+	<umsm:stanza>
+		<umsm:singer instrument="voice/Choir">
+			<umsm:verse>Взбранной воеводе победительная,</umsm:verse>
+			<umsm:verse>яко избавльшеся от злых,</umsm:verse>
+			<umsm:verse>благодарственная восписуем</umsm:verse>
+			<umsm:verse>Ти раби Твои, Богородице;</umsm:verse>
+			<umsm:verse>но яко имущая державу непобедимую,</umsm:verse>
+			<umsm:verse>от всяких нас бед свободи,</umsm:verse>
+			<umsm:verse>да зовем Ти: радуйся, невесто неневестная.</umsm:verse>
+		</umsm:singer>
+	</umsm:stanza>
+</umsm:lyrics>
